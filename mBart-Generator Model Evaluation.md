@@ -5,9 +5,13 @@ The generator model (Facebook mBART) currently achieves a **BLEU score of 4.56**
 
 
 MODEL PERFORMANCE REPORT
+
 🔹 BLEU Score:   4.56  
+
 🔹 chrF Score:   23.66  
+
 🔹 ROUGE-L:      1.58 
+
 🔹 METEOR:       20.04  
 
 ---  Qualitative Analysis (First 3 Samples) ---

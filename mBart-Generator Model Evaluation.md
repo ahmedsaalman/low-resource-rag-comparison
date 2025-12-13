@@ -12,6 +12,7 @@ MODEL PERFORMANCE REPORT
 
 
 ---  Qualitative Analysis (First 3 Samples) ---
+
 Question: کووڈ-19 کی عام علامات کیا ہیں؟
 Gold Ans: عام علامات میں بخار، کھانسی اور سانس لینے میں دشواری شامل ہیں۔
 Model Ans: کووڈ-19 کے عام علامات میں rhinitis، وائرس اور وائرس کی علامات شامل ہیں، جن کے لیے rhinitis وائرس کی تشخیص ضروری ہے۔

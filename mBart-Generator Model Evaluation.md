@@ -3,14 +3,12 @@
 **Performance Summary:**
 The generator model (Facebook mBART) currently achieves a **BLEU score of 4.56**, which is below the target threshold for usable translations. The **ROUGE-L score of 1.58** indicates a significant lack of structural coherence in the generated responses.
 
---------------------------------------------------
-MODEL PERFORMANCE REPORT
-🔹 BLEU Score:   4.56  (Higher is better, >15 is decent for Urdu)
-🔹 chrF Score:   23.66  (Best metric for Urdu, aim for >40)
-🔹 ROUGE-L:      1.58  (Sentence structure match)
-🔹 METEOR:       20.04  (Synonym/Meaning match)
---------------------------------------------------
 
+MODEL PERFORMANCE REPORT
+🔹 BLEU Score:   4.56  
+🔹 chrF Score:   23.66  
+🔹 ROUGE-L:      1.58 
+🔹 METEOR:       20.04  
 
 ---  Qualitative Analysis (First 3 Samples) ---
 
